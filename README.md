@@ -169,6 +169,13 @@ flowchart TD
 
 ---
 
+## 👤 Author
+
+**Pallab Kumar Sarker**
+- GitHub: [@PallabKumarS](https://github.com/PallabKumarS)
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - free for personal and commercial use.
