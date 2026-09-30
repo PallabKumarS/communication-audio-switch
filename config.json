@@ -1,0 +1,12 @@
+{
+  "AutoStart": true,
+  "MinimizeToTray": true,
+  "ShowNotifications": false,
+  "IsMonitoring": true,
+  "DefaultFallback": "__SAME__",
+  "DeviceMappings": {
+    "Speaker": "Headphone",
+    "Earphone": "__SAME__",
+    "Headphone": "__SAME__"
+  }
+}
